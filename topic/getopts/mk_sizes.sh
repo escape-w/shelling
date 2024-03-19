@@ -59,7 +59,7 @@ usage() {
   echo
   echo " The given example creates 11 files, varying is size of 0 bytes to 600 MB:"
   echo " Note that given integer arithmetic, the number of files might be more than you expect"
-  echo 
+  echo
 } # end usage
 
 #

@@ -58,7 +58,7 @@ usage() {
   echo " DIR_PATH must be a writable directory"
   echo
   echo " The given example creates 11 files, varying in timestamp from 2010-02-27 through 2019-09-20"
-  echo 
+  echo
 } # end usage
 
 #
