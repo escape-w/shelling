@@ -1,0 +1,4 @@
+* core.longpaths true
+* text=auto
+*.sh eol=lf
+libexec/* eol=lf
