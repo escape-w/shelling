@@ -15,3 +15,7 @@ All about shell scripting
 - [finance](https://github.com/yorkeccak/finance)
 - [browser-use](https://github.com/browser-use/browser-use)
 - [open-webui](https://github.com/open-webui/open-webui)
+
+## Authentications
+- [Configuring OpenID Connect in Amazon Web Services](https://docs.github.com/en/actions/how-tos/secure-your-work/security-harden-deployments/oidc-in-aws?apiVersion=2022-11-28)
+- [IAM roles for service accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
